@@ -1,0 +1,8 @@
+ship station
+hangar station
+station ship station planetA planetB planetC asteroid
+planetA station asteroid
+planetB station asteroid
+planetC station asteroid
+asteroid bandit
+bandit asteroid
